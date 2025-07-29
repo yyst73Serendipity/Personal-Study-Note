@@ -2,3 +2,4 @@ json
 openai
 datetime
 pprint
+requests>=2.31.0
